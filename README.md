@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sehabkhanzehad" target="blank"><img src="https://img.shields.io/twitter/follow/sehabkhanzehad?logo=twitter&style=for-the-badge" alt="sehabkhanzehad" /></a> </p>
 
-- 🔭 I’m currently working on [CNPI'an](https://msrajtravles.com)
+- 🔭 I’m currently working on [Raj Travles](https://msrajtravles.com)
 
 - 🌱 I’m currently learning **Laravel**
 
