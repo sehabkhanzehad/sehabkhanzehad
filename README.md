@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sk Zehad</h1>
-<h3 align="center">A passionate Web Developer from Bangladesh</h3>
+<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sehabkhanzehad&label=Profile%20views&color=0e75b6&style=flat" alt="sehabkhanzehad" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sehabkhanzehad" target="blank"><img src="https://img.shields.io/twitter/follow/sehabkhanzehad?logo=twitter&style=for-the-badge" alt="sehabkhanzehad" /></a> </p>
 
-- 🔭 I’m currently working on [CNPI'an](https://cnpian.blog/)
+- 🔭 I’m currently working on [CNPI'an](https://msrajtravles.com)
 
 - 🌱 I’m currently learning **Laravel**
 
