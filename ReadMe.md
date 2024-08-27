@@ -92,11 +92,11 @@ My name is Sk Zehad, it's "Md Zehad Ali" on my birth certificate and I made it s
     </tr>
     <tr>
         <td>Shopping Cart</td>
-        <td>Ecommerce</td>
+        <td>Shopping</td>
         <td>User can mange shopping cart.</td>
         <td><a target="_blank" href="#">Click here</a></td>
         <td><a target="_blank" href="https://github.com/sehabkhanzehad?tab=repositories">Click here</a></td>
-        <td>Shop</td>
+        <td>For Practice</td>
     </tr>
    
 </table>
