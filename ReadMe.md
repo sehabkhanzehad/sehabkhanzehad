@@ -101,17 +101,6 @@ My name is Sk Zehad, it's "Md Zehad Ali" on my birth certificate and I made it s
    
 </table>
 
-- ⇒ [Raj Travels](https://msrajtravels.com) (For Client)
-
-- ⇒ [eBiz](https://ebz.onrender.com/) (client) ([other pages ↗](https://ebz.onrender.com/loggedin))
-- ⇒ [Greeting Card](https://the-perfect-greeting.pages.dev/) (client)
-- ⇒ [Black Port](https://tanim.raptit.com/blackport/preview.html) (Themeforest product)
-- ⇒ [Bracket](https://tanim.raptit.com/bracket/preview.html) (Themeforest product)
-- ⇒ [Shifu](https://tanimmahbub.github.io/shifu/) (client)
-- ⇒ [Moving Companies](https://tanimmahbub.github.io/movingCompanies/) (client)
-- ⇒ [Markaz](https://markazul-uloom.com/) (LTR+RTL, Arabic+Bangla)
-  <br/><br/>
-
 ## 🌐 Socials:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sehabkhanzehad) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sehabkhanzehad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sehabkhanzehad) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sehabkhanzehad) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Zehad) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/sehabkhanzehad) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/sehabkhanzehad) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sehabkhanzehad) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/sehabkhanzehad)
