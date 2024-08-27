@@ -20,7 +20,7 @@ My name is Sk Zehad, it's "Md Zehad Ali" on my birth certificate and I made it s
         <td>Inventory</td>
         <td>This is multi-vendor Point of Sale application.
         Users can manage customers, products, sales(generate invoice), genarate sales report. 
-        <td><a target="_blank" href="https://pos.sehabkhanzehad.dev">Click here</a></td>
+        <td><a target="_blank" href="#">Click here</a></td>
         <td><a target="_blank" href="https://github.com/sehabkhanzehad/pos">Click here</a></td>
         <td>For Practice</td>
     </tr>
@@ -96,7 +96,7 @@ My name is Sk Zehad, it's "Md Zehad Ali" on my birth certificate and I made it s
         <td>User can mange shopping cart.</td>
         <td><a target="_blank" href="#">Click here</a></td>
         <td><a target="_blank" href="https://github.com/sehabkhanzehad?tab=repositories">Click here</a></td>
-        <td>For Practice</td>
+        <td>Shop</td>
     </tr>
    
 </table>
