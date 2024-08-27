@@ -22,7 +22,7 @@ My name is Sk Zehad, it's "Md Zehad Ali" on my birth certificate and I made it s
         Users can manage customers, products, sales(generate invoice), genarate sales report. 
         <td><a target="_blank" href="https://pos.sehabkhanzehad.dev">Click here</a></td>
         <td><a target="_blank" href="https://github.com/sehabkhanzehad/pos">Click here</a></td>
-        <td>For Client</td>
+        <td>For Practice</td>
     </tr>
     <tr>
         <td>Raj Travels</td>
