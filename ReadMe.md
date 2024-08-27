@@ -37,8 +37,8 @@ My name is Sk Zehad, it's "Md Zehad Ali" on my birth certificate and I made it s
         <td>Contacts</td>
         <td>Contact Management</td>
         <td>User can create, read, update and delete contacts.
-        <td><a target="_blank" href="https://contacts.sehabkhanzehad.dev">Click here</a></td>
-        <td><a target="_blank" href="https://github.com/sehabkhanzehad/contacts">Click here</a></td>
+        <td><a target="_blank" href="#">Click here</a></td>
+        <td><a target="_blank" href="https://github.com/sehabkhanzehad?tab=repositories">Click here</a></td>
         <td>For Practice</td>
     </tr>
     <tr>
@@ -71,7 +71,7 @@ My name is Sk Zehad, it's "Md Zehad Ali" on my birth certificate and I made it s
         <td>Calculator</td>
         <td>User can calculate.</td>
         <td><a target="_blank" href="#">Click here</a></td>
-        <td><a target="_blank" href="https://github.com/sehabkhanzehad">Click here</a></td>
+        <td><a target="_blank" href="https://github.com/sehabkhanzehad?tab=repositories">Click here</a></td>
         <td>For Practice</td>
     </tr>
     <tr>
@@ -79,7 +79,7 @@ My name is Sk Zehad, it's "Md Zehad Ali" on my birth certificate and I made it s
         <td>Money Management</td>
         <td>User can manage money.</td>
         <td><a target="_blank" href="#">Click here</a></td>
-        <td><a target="_blank" href="https://github.com/sehabkhanzehad">Click here</a></td>
+        <td><a target="_blank" href="https://github.com/sehabkhanzehad?tab=repositories">Click here</a></td>
         <td>For Practice</td>
     </tr>
     <tr>
@@ -87,7 +87,7 @@ My name is Sk Zehad, it's "Md Zehad Ali" on my birth certificate and I made it s
         <td>Money Management</td>
         <td>User can manage money.</td>
         <td><a target="_blank" href="#">Click here</a></td>
-        <td><a target="_blank" href="https://github.com/sehabkhanzehad">Click here</a></td>
+        <td><a target="_blank" href="https://github.com/sehabkhanzehad?tab=repositories">Click here</a></td>
         <td>For Practice</td>
     </tr>
     <tr>
@@ -95,7 +95,7 @@ My name is Sk Zehad, it's "Md Zehad Ali" on my birth certificate and I made it s
         <td>Ecommerce</td>
         <td>User can mange shopping cart.</td>
         <td><a target="_blank" href="#">Click here</a></td>
-        <td><a target="_blank" href="https://github.com/sehabkhanzehad">Click here</a></td>
+        <td><a target="_blank" href="https://github.com/sehabkhanzehad?tab=repositories">Click here</a></td>
         <td>For Practice</td>
     </tr>
    
