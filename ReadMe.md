@@ -10,7 +10,7 @@
 
 ## 🚀 What I Do
 
-- 🔧 **Backend Development with Laravel 10+**
+- 🔧 **Backend Development with Laravel**
   - Follow OOP best practices, SOLID principles, and clean architecture
   - Use service layer, repository pattern, and form request validation
 
