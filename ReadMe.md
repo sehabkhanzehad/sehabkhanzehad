@@ -1,134 +1,100 @@
 # 💫 About Me:
 
-<h3 align="left">Hi 👋, I'm Sk Zehad</h3>
+# 👋 Hi, I'm Md Zehad Ali (Sk Zehad)
 
-My name is Sk Zehad, it's "Md Zehad Ali" on my birth certificate and I made it short for a better user experience 😎<br><br>I am a Web Developer with a huge love for CSS & Bootstrap, JasvaScript, PHP & Laravel, API, RDBMS, and System Architecture. Currently, I'm open to work and employment opportunities.<br><br>
+**Software Engineer | Laravel Developer | SaaS Architect**
 
-## Some of my works-
-
-<table>
-    <tr>
-        <th>Project Name</th>
-        <th>Type</th>
-        <th>Details</th>
-        <th>View</th>
-        <th>Source Code</th>
-        <th>Comment's</th>
-    </tr>
-    <tr>
-        <td>Point of Sale (POS)</td>
-        <td>Inventory</td>
-        <td>This is multi-vendor Point of Sale application.
-        Users can manage customers, products, sales(generate invoice), genarate sales report. 
-        <td><a target="_blank" href="#">Click here</a></td>
-        <td><a target="_blank" href="https://github.com/sehabkhanzehad/pos">Click here</a></td>
-        <td>For Practice</td>
-    </tr>
-    <tr>
-        <td>Raj Travels</td>
-        <td>Hajj Agency</td>
-        <td>Pilgrims can register, login & booking hajj packages etc.
-        <br>Admin can manage pilgrims, hajj packages & Update website etc.</td>
-        <td><a target="_blank" href="https://msrajtravels.com">Click here</a></td>
-        <td><a target="_blank" href="https://github.com/sehabkhanzehad/rajTravels">Click here</a></td>
-        <td>For Client</td>
-    </tr>
-    <tr>
-        <td>Contacts</td>
-        <td>Contact Management</td>
-        <td>User can create, read, update and delete contacts.
-        <td><a target="_blank" href="#">Click here</a></td>
-        <td><a target="_blank" href="https://github.com/sehabkhanzehad?tab=repositories">Click here</a></td>
-        <td>For Practice</td>
-    </tr>
-    <tr>
-        <td>CNPI'an</td>
-        <td>Blog</td>
-        <td>User can create an account, read posts, make author with email verify then get a dashboard for create, update & delete posts etc.<br>Admin can manage users, posts & full Website etc.
-        </td>
-        <td><a target="_blank" href="https://cnpian.blog">Click here</a></td>
-        <td><a target="_blank" href="https://github.com/sehabkhanzehad/cnpianOld">Click here</a></td>
-        <td>For Institute</td>
-    </tr>
-    <tr>
-        <td>Sk Zehad</td>
-        <td>Portfolio</td>
-        <td>User show his portfolio.</td>
-        <td><a target="_blank" href="https://sehabkhanzehad.dev">Click here</a></td>
-        <td><a target="_blank" href="https://github.com/sehabkhanzehad/sehabkhanzehad.dev">Click here</a></td>
-        <td>For Myself</td>
-    </tr>
-    <tr>
-        <td>Abdul Ajij</td>
-        <td>Portfolio</td>
-        <td>User show his portfolio.</td>
-        <td><a target="_blank" href="#">Click here</a></td>
-        <td><a target="_blank" href="https://github.com/sehabkhanzehad/abdulajij.msrajtravels.com">Click here</a></td>
-        <td>For Client</td>
-    </tr>
-    <tr>
-        <td>Calculator</td>
-        <td>Calculator</td>
-        <td>User can calculate.</td>
-        <td><a target="_blank" href="#">Click here</a></td>
-        <td><a target="_blank" href="https://github.com/sehabkhanzehad?tab=repositories">Click here</a></td>
-        <td>For Practice</td>
-    </tr>
-    <tr>
-        <td>eMoney</td>
-        <td>Money Management</td>
-        <td>User can manage money.</td>
-        <td><a target="_blank" href="#">Click here</a></td>
-        <td><a target="_blank" href="https://github.com/sehabkhanzehad?tab=repositories">Click here</a></td>
-        <td>For Practice</td>
-    </tr>
-    <tr>
-        <td>Bank App</td>
-        <td>Money Management</td>
-        <td>User can manage money.</td>
-        <td><a target="_blank" href="#">Click here</a></td>
-        <td><a target="_blank" href="https://github.com/sehabkhanzehad?tab=repositories">Click here</a></td>
-        <td>For Practice</td>
-    </tr>
-    <tr>
-        <td>Shopping Cart</td>
-        <td>Shopping</td>
-        <td>User can mange shopping cart.</td>
-        <td><a target="_blank" href="#">Click here</a></td>
-        <td><a target="_blank" href="https://github.com/sehabkhanzehad?tab=repositories">Click here</a></td>
-        <td>For Practice</td>
-    </tr>
-   
-</table>
-
-## 🌐 Socials:
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sehabkhanzehad) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sehabkhanzehad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sehabkhanzehad) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sehabkhanzehad) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Zehad) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/sehabkhanzehad) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/sehabkhanzehad) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sehabkhanzehad) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/sehabkhanzehad)
-
-# 💻 Tech Stack:
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=sehabkhanzehad&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sehabkhanzehad&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sehabkhanzehad&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=sehabkhanzehad&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=sehabkhanzehad&limit=5&theme=dark&combine_all_yearly_contributions=true)
+💻 I build scalable backend systems with Laravel, focusing on **SaaS**, **REST APIs**, **Stripe billing**, **Custom Domain** and **multitenancy**. I’m passionate about clean code, architecture, and solving real-world business problems with smart engineering.
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=sehabkhanzehad&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🚀 What I Do
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🔧 **Backend Development with Laravel 10+**
+  - Follow OOP best practices, SOLID principles, and clean architecture
+  - Use service layer, repository pattern, and form request validation
+
+- 🧠 **SaaS Systems with Multitenancy & RBAC**
+  - Built isolated workspaces per user with dynamic tenant scoping
+  - Implemented flexible role-based permission systems across modules
+
+- 🔐 **JWT & OAuth Authentication (Socialite)**
+  - Manual auth system with custom token expiration for login, OTP, and password reset
+  - Integrated Google Login using Laravel Socialite with frontend-backend host separation
+
+- 💳 **Stripe Subscription Billing Integration**
+  - Dynamic gateway credential support (Admin/User-specific Stripe Keys)
+  - Implemented 7-day free trial, recurring billing, usage tracking, and invoice generation
+
+- 🔔 **Event-based Notification Systems**
+  - Real-time notifications via Mail, Web Push (Firebase), and WhatsApp (planned)
+  - Configurable per-workspace `notify_when` setting (e.g., 3 days before expiration)
+
+- 🛠️ **REST API Design & Architecture**
+  - Designed clean API endpoints using resource controllers and transformers
+  - Applied API versioning and middleware-based workspace initialization
+
+- 🧾 **Invoice, Report, and Admin Panel Systems**
+  - Built internal tooling for vendors to manage products, sales, and reporting
+  - Support for downloadable invoices, PDF generation, and dashboard analytics
+
+- 🧪 **Testing, Deployment & Debugging**
+  - Used Postman for API testing and Laravel Debugbar for performance profiling
+  - Familiar with CI/CD concepts and environment configuration
+
+- 📦 **Dynamic Settings & Feature Toggles**
+  - Created notification settings system to update timing, frequency, and channels
+  - Workspace-wide setting panels for user control
+
+- 📊 **Data Filtering & Pagination**
+  - Built searchable, filterable, paginated APIs for large dataset management
+  - Implemented advanced query scopes and dynamic relationships
+
+- 👨‍👩‍👧‍👦 **Multi-role Admin Management**
+  - Different dashboards and permissions for Super Admin, Admin, Staff, and End-Users
+  - Middleware enforced access control across modules
+
+---
+
+## 🛠️ Tech Stack
+
+```bash
+Languages     : PHP, JavaScript, SQL  
+Frameworks    : Laravel, jQuery, Bootstrap, Tailwind  
+Database      : MySQL, PostgreSQL, Redis  
+Tools         : Git, GitHub, Postman, VS Code  
+Payment APIs  : Stripe SDK, Razorpay (coming)  
+Auth          : JWT, Laravel Passport, OAuth2  
+```
+
+---
+
+## 📈 Projects
+
+### 🔹 [Subsavely – Subscription Management SaaS](https://subsavely.com)
+A multitenant SaaS app to track and manage user subscriptions with billing, notifications, and workspaces.
+
+### 🔹 Lancepilot Admin Platform
+Internal backend tool for managing customers, sales reports, and role-based staff access.
+
+---
+
+## 📚 Currently Learning
+
+- 🧠 Clean Architecture & Design Patterns  
+- 🌐 Frontend with React + Tailwind  
+- 🏦 Multi-Gateway Payment Integration (Stripe, Paddle, Razorpay)
+
+---
+
+## 📫 Connect with Me
+
+- 📧 Email: sehabkhanzehad@gmail.com  
+- 🧑‍💻 GitHub: [github.com/sehabkhanzehad](https://github.com/sehabkhanzehad)  
+- 🔗 LinkedIn: [linkedin.com/in/sehabkhanzehad](https://linkedin.com/in/sehabkhanzehad)  
+
+---
+
+## 💡 Fun Fact
+
+I'm a night coder 🌙 who loves solving complex problems and turning ideas into real SaaS products 🚀.
