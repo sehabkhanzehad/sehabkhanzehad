@@ -14,7 +14,7 @@
   - Follow OOP best practices, SOLID principles, and clean architecture
   - Use service layer, repository pattern, and form request validation
 
-- 🧠 **SaaS Systems with Multitenancy & RBAC**
+- 🧠 **SaaS Systems with Multitenancy, Custom Domkain & RBAC**
   - Built isolated workspaces per user with dynamic tenant scoping
   - Implemented flexible role-based permission systems across modules
 
