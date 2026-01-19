@@ -1,100 +1,91 @@
-# 💫 About Me:
+# Hi, I'm Sk Zehad 👋  
+**Software Engineer | Laravel Backend Developer | SaaS Architect**
 
-# 👋 Hi, I'm Md Zehad Ali (Sk Zehad)
-
-**Software Engineer | Laravel Developer | SaaS Architect**
-
-💻 I build scalable backend systems with Laravel, focusing on **SaaS**, **REST APIs**, **Stripe billing**, **Custom Domain** and **multitenancy**. I’m passionate about clean code, architecture, and solving real-world business problems with smart engineering.
-
----
-
-## 🚀 What I Do
-
-- 🔧 **Backend Development with Laravel**
-  - Follow OOP best practices, SOLID principles, and clean architecture
-  - Use service layer, repository pattern, and form request validation
-
-- 🧠 **SaaS Systems with Multitenancy, Custom Domain & RBAC**
-  - Built isolated workspaces per user with dynamic tenant scoping
-  - Implemented flexible role-based permission systems across modules
-
-- 🔐 **JWT & OAuth Authentication (Socialite)**
-  - Manual auth system with custom token expiration for login, OTP, and password reset
-  - Integrated Google Login using Laravel Socialite with frontend-backend host separation
-
-- 💳 **Stripe Subscription Billing Integration**
-  - Dynamic gateway credential support (Admin/User-specific Stripe Keys)
-  - Implemented 7-day free trial, recurring billing, usage tracking, and invoice generation
-
-- 🔔 **Event-based Notification Systems**
-  - Real-time notifications via Mail, Web Push (Firebase), and WhatsApp (planned)
-  - Configurable per-workspace `notify_when` setting (e.g., 3 days before expiration)
-
-- 🛠️ **REST API Design & Architecture**
-  - Designed clean API endpoints using resource controllers and transformers
-  - Applied API versioning and middleware-based workspace initialization
-
-- 🧾 **Invoice, Report, and Admin Panel Systems**
-  - Built internal tooling for vendors to manage products, sales, and reporting
-  - Support for downloadable invoices, PDF generation, and dashboard analytics
-
-- 🧪 **Testing, Deployment & Debugging**
-  - Used Postman for API testing and Laravel Debugbar for performance profiling
-  - Familiar with CI/CD concepts and environment configuration
-
-- 📦 **Dynamic Settings & Feature Toggles**
-  - Created notification settings system to update timing, frequency, and channels
-  - Workspace-wide setting panels for user control
-
-- 📊 **Data Filtering & Pagination**
-  - Built searchable, filterable, paginated APIs for large dataset management
-  - Implemented advanced query scopes and dynamic relationships
-
-- 👨‍👩‍👧‍👦 **Multi-role Admin Management**
-  - Different dashboards and permissions for Super Admin, Admin, Staff, and End-Users
-  - Middleware enforced access control across modules
+I build **scalable, production-ready SaaS applications** using Laravel with a strong focus on  
+**clean architecture, multitenancy, secure APIs, and billing systems**.  
+Currently working as a **Software Developer at Lancepilot Ltd.**, building real-world SaaS products used in production.
 
 ---
 
-## 🛠️ Tech Stack
-
-```bash
-Languages     : PHP, JavaScript, SQL  
-Frameworks    : Laravel, jQuery, Bootstrap, Tailwind  
-Database      : MySQL, PostgreSQL, Redis  
-Tools         : Git, GitHub, Postman, VS Code  
-Payment APIs  : Stripe SDK, Razorpay (coming)  
-Auth          : JWT, Laravel Passport, OAuth2  
-```
+## 🚀 Core Expertise
+- Laravel backend development (API-first architecture)
+- SaaS systems with multitenancy & custom domain mapping
+- Role-Based Access Control (RBAC)
+- Stripe subscription & billing (webhooks, trials, invoices)
+- Secure authentication (JWT, OAuth, Sanctum)
+- Database design, optimization & caching
 
 ---
 
-## 📈 Projects
-
-### 🔹 [Subsavely – Subscription Management SaaS](https://subsavely.com)
-A multitenant SaaS app to track and manage user subscriptions with billing, notifications, and workspaces.
-
-### 🔹 Lancepilot Admin Platform
-Internal backend tool for managing customers, sales reports, and role-based staff access.
-
----
-
-## 📚 Currently Learning
-
-- 🧠 Clean Architecture & Design Patterns  
-- 🌐 Frontend with React + Tailwind  
-- 🏦 Multi-Gateway Payment Integration (Stripe, Paddle, Razorpay)
+## 🏗 Engineering & Architecture
+- Monolithic & Microservice architectures
+- Clean Architecture & SOLID principles
+- Service layer & repository pattern
+- API versioning & middleware-based tenant resolution
+- Queues, Jobs, Redis caching
+- Event-driven systems & third-party webhooks
+- Searchable, filterable & paginated APIs
 
 ---
 
-## 📫 Connect with Me
-
-- 📧 Email: sehabkhanzehad@gmail.com  
-- 🧑‍💻 GitHub: [github.com/sehabkhanzehad](https://github.com/sehabkhanzehad)  
-- 🔗 LinkedIn: [linkedin.com/in/sehabkhanzehad](https://linkedin.com/in/sehabkhanzehad)  
+## 🛠 Tech Stack
+**Backend:** PHP, Laravel  
+**Frontend:** React, JavaScript, Tailwind CSS, Blade  
+**Database:** PostgreSQL, MySQL, Redis  
+**Auth:** JWT, OAuth2, Laravel Sanctum  
+**Payments:** Stripe (production)  
+**Cloud & DevOps:** Laravel Cloud, Forge, AWS (basic), Domain & SSL  
+**Tools:** Git, GitHub, Postman, VS Code, Composer, NPM  
 
 ---
 
-## 💡 Fun Fact
+## 📌 Featured Projects
 
-I'm a night coder 🌙 who loves solving complex problems and turning ideas into real SaaS products 🚀.
+### 🔹 LancePilot — SaaS Backend Platform
+World’s first Meta-compliant WhatsApp cold outreach SaaS with 97% open rate.
+
+**My Contributions**
+- Developed secure, scalable REST APIs
+- Implemented Stripe billing & payment webhooks
+- Built multi-workspace SaaS architecture with RBAC
+- Integrated third-party APIs & event-driven systems
+- Optimized PostgreSQL queries & Redis caching
+- Collaborated with frontend & QA teams on production releases
+
+---
+
+### 🔹 Pilgrim & Accounts Management System
+Backend & frontend system for Hajj & Umrah service operations.
+
+**My Contributions**
+- Designed & built REST APIs for transactions & analytics
+- Database schema design & performance optimization
+- Authentication & production deployment
+- Built modern React frontend with API integration
+
+---
+
+## 🧪 Testing & Quality
+- API testing with Postman
+- Debugging & profiling with Laravel Telescope
+- Clean refactoring & readable code practices
+- Familiar with Pest & test-driven workflows
+
+---
+
+## 📈 Professional Summary
+Backend-focused **mid-level software engineer** with hands-on experience in building  
+**real production SaaS systems**, handling architecture decisions, performance optimization,  
+and end-to-end delivery from concept to cloud deployment.
+
+---
+
+## 📫 Connect With Me
+📧 Email: sehabkhanzehad@gmail.com  
+🌐 Portfolio: https://zehad.me  
+🔗 LinkedIn: https://linkedin.com/in/sehabkhanzehad  
+💻 GitHub: https://github.com/sehabkhanzehad  
+
+---
+
+💡 *Fun fact:* Night coder 🌙 who enjoys turning complex business ideas into scalable SaaS systems.
