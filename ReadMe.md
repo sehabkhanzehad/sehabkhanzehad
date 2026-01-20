@@ -1,9 +1,7 @@
 # Hi, I'm Sk Zehad 👋  
 **Software Engineer | Laravel Backend Developer | SaaS Architect**
 
-I build **scalable, production-ready SaaS applications** using Laravel with a strong focus on  
-**clean architecture, multitenancy, secure APIs, and billing systems**.  
-Currently working as a **Software Developer at Lancepilot Ltd.**, building real-world SaaS products used in production.
+I build **scalable, production-ready SaaS applications** using Laravel with a strong focus on  **clean architecture, multitenancy, secure APIs, and billing systems**. Currently working as a **Software Developer at Lancepilot Ltd.**, building real-world SaaS products used in production.
 
 ---
 
