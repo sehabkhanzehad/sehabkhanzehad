@@ -81,8 +81,7 @@ and end-to-end delivery from concept to cloud deployment.
 ## 📫 Connect With Me
 📧 Email: sehabkhanzehad@gmail.com  
 🌐 Portfolio: https://zehad.me  
-🔗 LinkedIn: https://linkedin.com/in/sehabkhanzehad  
-💻 GitHub: https://github.com/sehabkhanzehad  
+🔗 LinkedIn: https://linkedin.com/in/sehabkhanzehad
 
 ---
 
